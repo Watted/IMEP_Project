@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "823631166488",
+    "firebase_url": "https://imep-39268.firebaseio.com",
+    "project_id": "imep-39268",
+    "storage_bucket": "imep-39268.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823631166488:android:06a2b258ec34cdc5",
+        "android_client_info": {
+          "package_name": "watted.imep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823631166488-urr768jcndc5hjclpdn9f6teg36bevck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "watted.imep",
+            "certificate_hash": "6adaf3858e3d8ffdd7fd199004f6531e3cc5d41c"
+          }
+        },
+        {
+          "client_id": "823631166488-2leo29m6llrq0b0jqv6hbo60a3lci00t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-4MOeaE5_JrLWQ5NKuJ9EavxrKRySui8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823631166488-2leo29m6llrq0b0jqv6hbo60a3lci00t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
